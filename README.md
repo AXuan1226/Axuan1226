@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Axuan, Linux Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Kushal Tanna, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from China 🇮🇳
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
