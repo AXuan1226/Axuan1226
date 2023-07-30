@@ -49,12 +49,7 @@
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/AXuan1226/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only
-
-作者：fangzhou_lu
-链接：https://juejin.cn/post/7119378607629140005
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。">
+  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/AXuan1226/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only">
   <br>
   <br>
   <br>
