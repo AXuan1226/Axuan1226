@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/AXuan1226/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only">
+  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/AXuan1226/AXuan1226/main/assets/github-contribution-grid-snake.svg">            
   <br>
   <br>
   <br>
